@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Build the Wall - Offline Archive
+Comment=Offline preserved arcade game
+Exec=Build_The_Wall
+Terminal=false
+Categories=Game;ArcadeGame;
